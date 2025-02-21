@@ -32,7 +32,7 @@ module.exports.run = async function({ api, event }) {
       api.changeNickname(`[ ${global.config.PREFIX} ] • ${(!global.config.BOTNAME) ? " " : global.config.BOTNAME}`, threadID, api.getCurrentUserID());
       const fs = require("fs");
       return api.sendMessage("", event.threadID, () => api.sendMessage({body: `(𝐋𝐎 𝐌𝐀𝐈 𝐀𝐀 𝐆𝐘𝐘𝐀 𝐀𝐀𝐏𝐊𝐈 ✦𝐇𝐀𝐍𝐙𝐀𝐋𝐀✦ 𝐉𝐀𝐋𝐃𝐈 𝐒𝐄 𝐒𝐖𝐀𝐆𝐀𝐓 𝐊𝐀𝐑𝐎 𝐇𝐌𝐀𝐑𝐀 😀👈\n●============================================●\n\n𝐎𝐑 𝐌𝐄𝐑𝐄 𝐏𝐘𝐀𝐑𝐄 𝐃𝐎𝐒𝐓𝐎 𝐉𝐀𝐋𝐃𝐈 𝐒𝐄 𝐌𝐄𝐑𝐈 𝐁𝐎𝐒𝐒 𝐇𝐀𝐍𝐙𝐔 𝐊𝐎 𝐑𝐄𝐐𝐔𝐒𝐄𝐓 𝐁𝐇𝐄𝐉 𝐃𝐎  😌👈\n●============================================●\nhttps://www.facebook.com/profile.php?id=61550268698294&mibextid=ZbWKwL\n●============================================●\n\n𝗽𝗿𝗲𝗳𝗶𝘅 => 👉 ${global.config.PREFIX} 👈\n●============================================●\n\𝐧𝐁𝐎𝐓 𝐀𝐏𝐑𝐎𝐕𝐀𝐋 𝐊𝐄 𝐋𝐈𝐘𝐄 ${global.config.PREFIX}𝐑𝐄𝐐𝐔𝐒𝐓 𝐋𝐈𝐊𝐇 𝐊𝐄 𝐒𝐄𝐍𝐃 𝐊𝐀𝐑𝐎  🙂🖐️) 
-`, attachment: fs.createReadStream(__dirname + "/cache/8e2558ff8750da7e5d22e519cca16380.jpg")} ,threadID));
+`, attachment: fs.createReadStream(__dirname + "/cache/botjoin.mp4")} ,threadID));
   }
   else {
       try {
