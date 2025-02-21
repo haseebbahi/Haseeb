@@ -17,7 +17,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 react.includes("gnd do") ||
 react.includes("GAND DO")) {
     var msg = {
-        body: `गांड़ तो नही है लोहे का लंड है ले लो रात भर रखना सुबह दे देना सुसु करने के लिए।😐😒👈`,
+        body: `CAHAL BOSDIKE SALE TU KHUD GANDU HAI TO KYA MUJHE BHI APNA THARA SAMJHA KHOSRY KAHI KA😐😒👈`,
       }
       api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("😆", event.messageID, (err) => {}, true)
