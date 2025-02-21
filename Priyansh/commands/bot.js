@@ -181,11 +181,11 @@ if ((event.body.toLowerCase() == "Love you") || (event.body.toLowerCase() == "bo
    };
 
    if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "Owner")) {
-     return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:-☞𝐀𝐲𝐞𝐬𝐡𝐚 𝐤𝐡𝐚𝐧☜💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐀𝐘𝐄𝐒𝐇𝐀\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/profile.php?id=61550268698294&mibextid=ZbWKwL\n👋For Any Kind Of Help Contact On Instagram Username 👉https://instagram.com/_Ayesha_khan__?igshid=OGQ5ZDc2ODk2ZA==😇", threadID);
+     return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:-☞𝐇𝐚𝐧𝐳𝐚𝐥𝐚☜💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐇𝐀𝐍𝐙𝐔\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/profile.php?id=100080862788542&mibextid=ZbWKwL\n👋For Any Kind Of Help Contact On Instagram Username 👉https://instagram.com/_nhi hai__?igshid=OGQ5ZDc2ODk2ZA==😇", threadID);
    };
 
    if ((event.body.toLowerCase() == "tumhe banaya kon hai") || (event.body.toLowerCase() == "tumko banaya kisne")) {
-     return api.sendMessage("𝐀𝐘𝐄𝐒𝐇𝐀 𝐊𝐇𝐀𝐍 𝐍𝐄 ❤️ My Creator. He loves me & Edit Me Daily. Ye Bot Sirf Owner k Liye h. Mujhe Aap logo ko Hasane k liye banya gya h Toh Muh Ladkaye Mat Rakkha Karo. Har Waqt Haste Raho.", threadID);
+     return api.sendMessage(" ⃝𝐎𝐖𝐍𝐄𝐑 ⸙𓆩𝐇𝐀𝐍𝐙𝐔𓆪 𓆣 »❯ 𝐍𝐄 ❤️ My Creator. He loves me & Edit Me Daily. Ye Bot Sirf Owner k Liye h. Mujhe Aap logo ko Hasane k liye banya gya h Toh Muh Ladkaye Mat Rakkha Karo. Har Waqt Haste Raho.", threadID);
    };
 
   if ((event.body.toLowerCase() == "bot admin") || (event.body.toLowerCase() == "bot ka admin kon ha")) {
